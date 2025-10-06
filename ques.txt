@@ -1,0 +1,67 @@
+Easy Questions:
+
+
+Medium Questions:
+
+
+Simulate File Read with Callback
+
+Write a function readFile that simulates reading a file (using setTimeout) and calls a callback with the file content.
+
+Handle Async Data with Multiple Callbacks
+
+Write a function getDataAndTransform that simulates fetching data asynchronously and calls a callback to transform the data once fetched.
+
+Callback for Error Handling
+
+Write a function divideNumbers that takes two numbers and a callback. The callback should handle division by zero errors gracefully.
+
+Callback for Sorting
+
+Write a function sortNumbers that takes an array of numbers and a callback that sorts the numbers in ascending order.
+
+Advanced Array Filter
+
+Write a function filterAdults that takes an array of people objects, and a callback that filters out people under 18.
+
+Hard Questions:
+
+Callback to Simulate Fetch and Error Handling
+
+Write a function fetchUserData that simulates fetching user data and uses a callback to either return data or an error message in case of failure.
+
+Recursive Callback Implementation
+
+Write a recursive function sumRecursive that takes an array of numbers and a callback to sum all the numbers using recursion.
+
+Async Parallel Execution with Callbacks
+
+Write a function fetchDataInParallel that fetches data from two sources (simulated with setTimeout) and processes both asynchronously using callbacks.
+
+Callback with Object Transformation
+
+Write a function transformUserData that takes an array of user objects and a callback to transform each user's data (e.g., capitalize names).
+
+Callback with Debouncing
+
+Implement a debounced version of a search function that only triggers a search after the user stops typing for 500ms.
+
+Async Series Execution with Callbacks
+
+Write a function executeInSeries that takes an array of functions and executes them in series, using callbacks to handle each step.
+
+Chain Callbacks for Data Processing
+
+Write a function processDataChain that takes a list of data items and processes them using a series of callback functions.
+
+Callback with SetInterval
+
+Write a function countDown that counts down from a given number to 0, calling a callback every second using setInterval.
+
+Callback with Multiple Results
+
+Write a function multiplyNumbers that takes two numbers and a callback. The callback should return both the sum and the product of the numbers.
+
+Handle Complex Nested Callbacks
+
+Write a function getUserDataWithPosts that fetches user data, then fetches their posts, and finally fetches the comments for each post, using nested callbacks to handle each step.
