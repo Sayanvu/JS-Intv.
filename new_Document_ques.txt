@@ -4,9 +4,6 @@ Easy Questions:
 Medium Questions:
 
 
-Simulate File Read with Callback
-
-Write a function readFile that simulates reading a file (using setTimeout) and calls a callback with the file content.
 
 Handle Async Data with Multiple Callbacks
 

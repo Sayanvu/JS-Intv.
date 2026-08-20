@@ -248,3 +248,24 @@
 // Simulate File Read with Callback
 
 // Write a function readFile that simulates reading a file (using setTimeout) and calls a callback with the file content.
+
+
+// function readFile(callback){
+//     setTimeout(() => {
+        
+//     }, 1000);
+// }
+
+// readFile(function cb(){
+
+// })
+
+
+// Handle Async Data with Multiple Callbacks
+
+// Write a function getDataAndTransform that simulates fetching data asynchronously and calls a callback to transform the data once fetched.
+
+
+function getDataAndTransform(callback){
+
+}
